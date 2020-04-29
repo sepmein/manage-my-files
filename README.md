@@ -2,10 +2,10 @@
 
 The repo is a collection of regulation to manage my personal files. First there are some golden rules to follow:
 
-1. The store information should be retrieve sometimes later. If not, **DELETE it** right away.
-2.
+1. The stored information must have a chance to be retrieved sometimes later. If not, **DELETE it** right away.
+2. Simplistic
 
-# Official Files Naming Regulations
+## Official Files Naming Regulations
 
 Each official file will be renamed based on their most useful file infomations, including:
 
@@ -19,3 +19,4 @@ In specific, File Type includes:
 - **d** for official documents
 - **n** for notifications
 -
+## Tags
