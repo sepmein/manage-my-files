@@ -1,7 +1,12 @@
 # ignore everything
-*.*
-*
+*.pdf
+*.bib
+*.xlsx
+*.xls
+*.docx
+*.doc
+everything/
 # else
 !.gitignore
-!*.yaml
-!*.md
+!**/*.yaml
+!**/*.md
