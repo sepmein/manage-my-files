@@ -9,39 +9,57 @@ The repo is a collection of regulation to manage my personal files. First there 
 
 There should be **one** root file folder, everything is in this folder and follow the **Mutually Exclusive Collectively Exhaustive** rule.
 
-0. working
-today, now, someday, nolimit
+- working
+  today, now, someday, nolimit
 
-1. done
-work files which has a project name
-naming rules:
-- start_date: in **yymmdd** format
-- org
-- who
-- status: **f**inished, **d**precated
-- project name
+- done
+  work files which has a project name
+  naming rules:
+  
+  - start_date: in **yymmdd** format
+  
+  - org
+  
+  - assigned by who
+  
+  - project name
 
->TODD: How to deal with the bienail projects?
+> TODD: How to deal with the bienail projects?
 
-2. documents
-work files which is project unrelated
+- documents
+  work files which is project unrelated. I decided to classify those documents into some catagories.
+  
+  - disease control and prevention system
+  
+  - geolocation(think about it twice)
+  
+  - ml
+  
+  - programming
+  
+  - research
 
-3. personal
-non-work related personal files
+- personal
+  non-work related personal files
 
-4. research
-- papers
-- citations
-- projects
+- research
+  
+  - papers
+  
+  - citations
+  
+  - projects
 
-5. data
+- data
 
-6. family
-- micah
-- emily
+- family
+  
+  - micah
+  
+  - emily
 
-7. life
-(optional)
+- life
+  (optional)
 
 Use `git` to track the meta data of the folder information.
 
@@ -55,13 +73,22 @@ Rename files based on their most useful file infomations, including:
 - and the file title
 
 In specific, File Type includes:
+
 - **r** for reports
+
 - **d** for official documents
+
 - **n** for notifications
 
-		`
-		o-200404-scdc-notification.docx
-		`-
+- **p** for plans
+  
+  > o-200404-scdc-notification.docx
+
+- **pr** for presentation
+
+- **v** for video
+
+- **sp** for speaks
 
 ## Tags
 
@@ -70,7 +97,26 @@ In specific, File Type includes:
 ## Use Karabanor element to remap keys
 
 ## Use Mendely to Watch the papers
+
 - Download papers into `~/Downloads/papers`
 - Download references into `~/Qsync/research/reference`
 
 ## Qsync for file sync and bakcup
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
