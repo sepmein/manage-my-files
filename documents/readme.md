@@ -18,3 +18,6 @@ When at sometime, I would like to search about some documents about the vector c
 **o** - **official files**.
 **r** - **reports**
 **c** - **charts**
+**d** - **documents**
+**pr** - **presentation**
+**sp** - **speech documents**
